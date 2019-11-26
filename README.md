@@ -1,7 +1,7 @@
 # Gitting Started
 Learn the basics of using Git for managing projects, tracking changes in code, and collaborating with other coders.
 
-<p align = "right">UNCC Data Science Initiative | By: Colby T. Ford, Ph.D.</p>
+<p align = "right"><b>UNCC Data Science Initiative</b> | By: Colby T. Ford, Ph.D.</p>
 
 ## Git from the Command Line
 1. Initialize a New Repository
