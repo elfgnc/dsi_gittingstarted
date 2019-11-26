@@ -17,6 +17,7 @@ Learn the basics of using Git for managing projects, tracking changes in code, a
   - `git push <name>`
 
 ## Resources:
+- [GitHub Desktop](https://desktop.github.com/)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [GitHub Learning Lab](https://lab.github.com/)
   - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
